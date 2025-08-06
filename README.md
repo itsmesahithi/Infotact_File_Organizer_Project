@@ -10,11 +10,16 @@ Lightweight and easy to use
 
 ### 🛠️ Modules Used
 os – To interact with the file system
+
 shutil – To move files
+
 logging – To maintain logs of file movements and errors
 
 ### 📁 Folder Categories
 Documents: .pdf, .docx, .txt, .xlsx, etc.
+
 Images: .jpg, .png, .gif, .jpeg, etc.
+
 Videos: .mp4, .avi, .mkv, etc.
+
 Others: Files that don't match the above types
